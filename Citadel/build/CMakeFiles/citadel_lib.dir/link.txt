@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcitadel_lib.a CMakeFiles/citadel_lib.dir/src/bitboard81.cpp.o CMakeFiles/citadel_lib.dir/src/fen.cpp.o CMakeFiles/citadel_lib.dir/src/move.cpp.o CMakeFiles/citadel_lib.dir/src/nnue.cpp.o CMakeFiles/citadel_lib.dir/src/perft.cpp.o CMakeFiles/citadel_lib.dir/src/position.cpp.o CMakeFiles/citadel_lib.dir/src/tables.cpp.o CMakeFiles/citadel_lib.dir/src/search.cpp.o
+/usr/bin/ranlib libcitadel_lib.a

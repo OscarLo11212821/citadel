@@ -1,0 +1,12 @@
+[Event "Citadel Match"]
+[Site "Localhost"]
+[Date "2024.05.22"]
+[White "User"]
+[Black "Assistant"]
+[Result "1-0"]
+[Termination "Regicide"]
+
+1. cmdC2C3@C4 H9E6 2. D1B3 G9F7 3. D2C2 cmdD8D7@D6 4. H1E4 F7E5 
+5. H2H3 cmdF8F7@F6 6. I2H2 cmdC8C7@C6 7. catI1I5 E5G6 8. E4G6 F7G6 
+9. B1G6 catI9G9 10. catI5I8 G8F8 11. G6E4 catG9I9 12. catI8I9 basE9<>F9@G9,G8 
+13. catI9H9xG9 F9G9 14. catH9G9 1-0

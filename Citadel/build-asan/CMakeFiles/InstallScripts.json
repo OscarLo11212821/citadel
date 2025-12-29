@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/parent/Desktop/Citadel/build-asan/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

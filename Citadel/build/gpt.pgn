@@ -1,0 +1,19 @@
+[Event "Citadel Play"]
+[Site "local"]
+[Date "2025.12.23"]
+[Round "1"]
+[White "Human"]
+[Black "Citadel"]
+[Result "0-1"]
+[Variant "Citadel"]
+[Termination "Regicide"]
+[SetUp "1"]
+[FEN "clpisiplc/mmmmmmmmm/9/9/9/9/9/MMMMMMMMM/CLPISIPLC w Bb 0 1"]
+[PlyCount "48"]
+
+1. B1E4 B9D7 2. C1D3 H9C4 3. D3E5 C4E6 4. D2D3 G9F7 5. E5F7 G8F7 6. D3D4 F9G8 7.
+conD4@D5 cmdH8H7 8. D1D3 I8H8 9. H1F3 cmdF7F6@G6 10. I2I3 F6F5 11. E4F5 E6F5 12.
+D3D2 D7A4 13. basE1<>D2@D3,E3 catI9I4 14. D2C3 F5E6 15. D4C4 G8G7 16. B2B3 G7E5
+17. C3B4 A4D7 18. F3H5 catI4I5 19. H5F3 catI5I4 20. B4C5 conF8@G8 21. F3H5 C9B7
+22. C5B6 E5D6 23. B6A6 D6C6 24. H5I4 C6A6 0-1
+

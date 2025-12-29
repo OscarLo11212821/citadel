@@ -1,0 +1,12 @@
+# Citadel NNUE training data
+# Format: <FEN> | <stm> <eval>
+# eval is centipawn-like from side-to-move (stm) perspective.
+# depth=1 maxplies=5 samples=5 seed=1 randomMoveProb=0.05 randomizeStart=6 threads=1
+# base_fen=clpisiplc/mmmmmmmmm/9/9/9/9/9/MMMMMMMMM/CLPISIPLC w Bb - 0 1
+# eval_backend=NNUE
+# nnue_file=/Users/parent/Desktop/Citadel/nnue_2712251102.cnue
+c1pisiplc/mmmmmm1mm/3lw1mw1/9/9/9/3LM1M2/MMMM1MWMM/C1PISIPLC w Bb b 0 4 | w -9
+c1pisiplc/mmmmmm1mm/3lw1mw1/9/9/4M4/3L2M2/MMMM1MWMM/C1PISIPLC b Bb b 1 4 | b 15
+c1pisip1c/mmmmmm1mm/3lwlmw1/9/9/4M4/3L2M2/MMMM1MWMM/C1PISIPLC w Bb - 2 5 | w -8
+c1pisip1c/mmmmmm1mm/3lwlmw1/9/9/4M4/3L1IM2/MMMM1MWMM/C1P1SIPLC b Bb - 3 5 | b -2
+c1pisip1c/mmmmmmm1m/3lwlmw1/9/9/4M4/3L1IM2/MMMM1MWMM/C1P1SIPLC w Bb - 4 6 | w 14
